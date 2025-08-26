@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(3,56,3); /* fundo branco */
+    background: rgb(255, 255, 255); /* fundo branco */
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
